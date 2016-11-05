@@ -15,7 +15,7 @@ import sys
 # functions
 def gen_stirling(n):
     '''
-    Function to create stirling numbers
+    Function to create Stirling numbers
     '''
     # initialize [n k] = [0 0] to 1
     s = [[1]]
