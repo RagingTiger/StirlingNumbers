@@ -56,7 +56,7 @@ The module can also be imported and used to generate Stirling numbers for
 other applications, where **S[n][k]** means the Stirling number at **row = n**
 and **column = k**:
 
-```python
+```
 $ python
 Python 2.7.12 (default, Oct 11 2016, 05:24:00)
 [GCC 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.38)] on darwin
